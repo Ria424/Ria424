@@ -1,5 +1,5 @@
-- 👋 Hi, I’m HappyProgrammingOne
-- 👋 안녕, 나는 HappyProgrammingOne 이야.
+- 👋 Hi, I’m RIa
+- 👋 안녕, 나는 RIa야.
 - 👀 My hobby is programming.
 - 👀 나의 취미는 프로그래밍이야.
 
