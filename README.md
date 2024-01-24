@@ -6,4 +6,4 @@ I'm coding my dream.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&link=https%3A%2F%2Fwww.lua.org)
 
 ### How to reach me
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=Roblox&link=https%3A%2F%2Fwww.roblox.com%2Fusers%2F1321350610%2Fprofile)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=Roblox&link=https%3A%2F%2Fwww.roblox.com%2Fusers%2F1321350610%2Fprofile) https://www.roblox.com/users/1321350610/profile
